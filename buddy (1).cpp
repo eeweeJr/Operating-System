@@ -1,7 +1,4 @@
-/*
- * The Buddy Page Allocator
- * SKELETON IMPLEMENTATION TO BE FILLED IN FOR TASK 2
- */
+
 
 #include <infos/mm/page-allocator.h>
 #include <infos/mm/mm.h>
@@ -411,7 +408,6 @@ private:
 	PageDescriptor *_free_areas[MAX_ORDER + 1];
 };
 
-/* --- DO NOT CHANGE ANYTHING BELOW THIS LINE --- */
 
 /*
  * Allocation algorithm registration framework
