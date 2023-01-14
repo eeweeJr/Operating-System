@@ -1,6 +1,5 @@
 /*
  * The Priority Task Scheduler
- * SKELETON IMPLEMENTATION TO BE FILLED IN FOR TASK 1
  */
 
 #include <infos/kernel/sched.h>
@@ -168,6 +167,5 @@ public:
 
 };
 
-/* --- DO NOT CHANGE ANYTHING BELOW THIS LINE --- */
 
 RegisterScheduler(AdvancedSchedulingAlgorithm);
